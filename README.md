@@ -9,4 +9,4 @@
 </br>
 
 <h3>APP首页截图</h3>
-![home](home.png)
+![home](/home.png)
